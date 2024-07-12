@@ -1,0 +1,46 @@
+@import "bootstrap/dist/css/bootstrap.min.css";
+
+.form-section{
+    width: 320px;
+    margin: 16px auto;
+}
+
+
+.invalid{
+    color: red;
+}
+
+.rodape{
+    display: flex;
+    justify-content:center;
+    background-color: black;
+    color: whitesmoke;
+    padding: 6px;
+    margin-right: 10px;
+}
+
+.politica{
+    padding-left: 10px;
+}
+
+.priva{
+    height: 86vh;
+}
+
+.login{
+    height: 79vh;
+}
+
+.cadastro{
+    height: 79vh;
+}
+
+.ajuda{
+    height: 81vh;
+}
+
+.home{
+    height: 85vh;
+    text-align: center;
+    
+}
